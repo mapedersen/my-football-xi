@@ -1,0 +1,23 @@
+# === .NET ===
+bin/
+obj/
+*.user
+*.suo
+*.vs/
+*.log
+
+# === Node / Frontend ===
+node_modules/
+web/node_modules/
+dist/
+web/dist/
+
+# === Env ===
+.env
+.env.*.local
+
+# === VS Code ===
+.vscode/
+
+# === OS ===
+.DS_Store
